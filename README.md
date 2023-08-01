@@ -1,13 +1,11 @@
 <h1 align="center"> Yoo Devs! 👋😎 </h1>
-<h3 align="center">Apenas um estudante que adora estilizar</h3>
+<h3 align="center">Apenas um estudante que adora estilizar </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinzuwu&color=yellow" alt="Profile views" /> </p>
 
 
 - 🔭 I’m currently working in my Home
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
 - 🤔 I’m looking for help with CSS
-- 📫 How to reach me: @Vinizuwu
-- ⚡ Fun fact: ...
 
 ## Contact
 
